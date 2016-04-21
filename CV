@@ -1,0 +1,58 @@
+<html>
+    <head>
+    
+<title> Nofil nizam Cv </title>
+</head>
+<body background="b.jpg">
+
+
+<font face="Kristen ITC" color="indigo"><h1><b> <center>NOFIL NIZAM </center></b> </h1></font>
+ <h3> <center> <em>  Web Designer/Web Developer </em> </center> </h3>
+ <hr width="800">
+ <h4> <em> <center> nofilnizam20@gmail.com</center></em> </h4>
+ <ul class="blue-bullet">
+ <font face="Stencil" color="Black"><h3> <li> <strong> <ins>Objective</ins> <strong> </li></strong> </h3> </font>
+ <p lang="en-us"> <i>To obtain a position within my chosen field where I can utilize my skills as a hard-working, well-educated employee in exchange for a steady market-fair paycheck.</i> </p>
+<font face="Stencil" color="green"><h3> <li> <strong> <ins>Education </ins><strong> </li></strong> </h3> </font>
+<ul>
+    <li> <em>Matriculation  From Gulistan Shah Abdul Latif Boys Secondary School</em></li>
+    <li> <em>Intermediate From Govt.Islamia Science College</em> </li>
+    <li> <em>BCS (Bechulars In Computer Science) from University of karachi UBIT Dept. (in progress) </em></li>
+    </ul>
+  <font face="Stencil" color="BLACK"><h3> <li> <strong><ins> Software & Skills</ins> <strong> </li></strong> </h3> </font>
+  <ul>
+      
+      <li> HTML (Hyper text Markup Language) </li>
+      <li> CSS (Cascading style sheet) </li>
+      <li> MS OFFICE 2013 </li>
+       <li> GIT </li>
+       <li> C #  </li>
+  </ul>
+  
+   <font face="Stencil" color="green"><h3> <li> <strong> <ins>Technical Skills</ins> <strong> </li></strong> </h3> </font>
+   <ul>
+    
+    <li><em> Computer / Laptop Troubleshoot Hardware & Software wise </em></li>
+   </ul>
+   <font face="Stencil" color="BLACK"><h3> <li> <strong> <ins>Contact Details</ins> <strong> </li></strong> </h3> </font>
+   
+ <li> Facebook </li>
+       <ul>
+           <li> <a href="https://www.facebook.com/nofil.nizam"> http://facebook.com/nofil.nizam</li> </a>
+ </ul>
+  <li> Gmail </li>
+       <ul>
+           <li> <a href="https://nofilnizam20@gmail.com">https:/gmail.com/nofilareeb</li> </a>
+ </ul>
+  <li> git Hub </li>
+       <ul>
+           <li> <a href="https://github.com/nofilareeb"> https://github.com/nofilareeb</li> </a>
+ </ul>
+  <li> Mobile  </li>
+       <ul>
+           <li> <a href="#"> 03132012292</li> </a>
+ </ul>
+ 
+    </body>
+    
+</html>
